@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    width: 100%;
+    height: 919px;
+    background: linear-gradient(0deg, #090909 2.88%, rgba(16, 16, 16, 0.00) 101.03%), url(../make-essential-UI-components-Resources/assets/hero-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
