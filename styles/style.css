@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+/* global styles ends here */
+
+/* banner section starts here */
+
 .header {
     max-width: 100%;
     min-height: 919px;
@@ -58,3 +62,5 @@
     border: none;
     color: #FFF;
 }
+
+/* banner section ends here */
