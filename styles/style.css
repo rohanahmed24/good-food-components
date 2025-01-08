@@ -64,3 +64,85 @@
 }
 
 /* banner section ends here */
+
+/* card section starts here */
+
+
+.card-box {
+    padding: 167px 300px 184px 300px;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+
+
+.card-box h3 {
+    color: #101010;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    opacity: 0.6;
+}
+
+.card-box h4 {
+    color: #101010;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    width: 691px;
+    margin-top: 16px;
+    margin-bottom: 48px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.cards {
+    width: 424px;
+}
+
+.cards h5 {
+    padding: 14px 32px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: rgba(82, 195, 3, 0.15);
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+.offer {
+    color: #101010;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.description {
+    color: #101010;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    opacity: 0.7;
+}
+
+.card-box-button button {
+    border-radius: 8px;
+    background: #52C303;
+    border: none;
+    font-family: 'Work Sans', sans-serif;
+    color: #FFF;
+    padding: 21px 32px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: 64px;
+}
